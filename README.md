@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 🤠, I'm Chantz</h1>
-<h3 align="center">A Full-Stack Engineer with a focus on front-end.</h3>
 
 - 🌱 I’m currently learning **the JAMstack**
 
